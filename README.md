@@ -1,10 +1,15 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:2496ED&height=200&section=header&text=Kemal%20Batuhan%20Çağlayan&fontColor=ffffff&fontSize=40&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=200&section=header&text=Kemal%20Batuhan%20Çağlayan&fontColor=00FF00&fontSize=38&fontAlignY=35&animation=fadeIn)
 
-# 👋 Hi, I'm Batuhan  
+<!-- Matrix Code Rain Background -->
+<p align="center">
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" height="200px"/>
+</p>
 
-🎓 **Software Engineering Graduate (2025)** | 💻 **Backend Developer (.NET & C#)**  
-🚀 Passionate about **Clean Architecture, Microservices, and Cloud Technologies**  
+# 💻 Hi, I'm Batuhan  
+
+🎓 **Software Engineering Graduate (2025)** | 🖤 **Backend Developer (.NET & C#)**  
+🕶️ Passionate about **Clean Architecture, Microservices, and Cloud Technologies**  
 
 ---
 
@@ -19,16 +24,16 @@
 
 ## 🛠 Tech Stack  
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=00FF00)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00FF00)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-000000?style=for-the-badge&logo=dotnet&logoColor=00FF00)
+![MSSQL](https://img.shields.io/badge/MSSQL-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=00FF00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)
 
 ---
 
@@ -45,12 +50,12 @@ Basic CRUD operations using **ASP.NET Core & EF Core**
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batucglyn&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucglyn&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=batucglyn&show_icons=true&theme=matrix" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucglyn&layout=compact&theme=matrix" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=batucglyn&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=batucglyn&theme=matrix" height="165"/>
 </p>
 
 ---
@@ -67,10 +72,10 @@ Basic CRUD operations using **ASP.NET Core & EF Core**
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kbatuhancaglayan)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batucglyn)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/kbatuhancaglayan)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/batucglyn)  
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:5C2D91&height=120&section=footer&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=120&section=footer&fontColor=00FF00&animation=fadeIn)
