@@ -28,12 +28,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-- 🛒 [**ECommerce**](https://github.com/batucglyn/ECommerce) → Clean Architecture, CQRS, MediatR, MongoDB & SQL  
-- 🗄️ [**CRUD.Solution**](https://github.com/batucglyn/CRUD.Solution) → Simple CRUD API with ASP.NET Core & EF Core  
-
----
 
 ## 📊 Most Used Languages  
 
