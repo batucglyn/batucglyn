@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=batucglyn&show_icons=true&theme=radical&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=8A2BE2" height="165"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batucglyn&layout=compact&theme=radical&bg_color=000000&title_color=39FF14&text_color=ffffff" height="165"/>
 </p>
 
