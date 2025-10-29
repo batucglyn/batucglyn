@@ -87,9 +87,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/batucglyn/batucglyn/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   ⭐ <b>“Coding my way from backend to full-stack — one project at a time.”</b> ⭐
 </p>
