@@ -12,8 +12,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Backend+Developer+focused+on+.NET+%26+Clean+Architecture;Currently+learning+React+%26+Tailwind+CSS;Building+E-Commerce+Microservices+with+.NET+9;Lifelong+Learner+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Backend+Developer+focused+on+.NET+%26+Clean+Architecture;Currently+learning+React+%26+Tailwind+CSS;Building+E-Commerce+Microservices+with+.NET+9;Lifelong+Learner+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
+
 
 
 ---
